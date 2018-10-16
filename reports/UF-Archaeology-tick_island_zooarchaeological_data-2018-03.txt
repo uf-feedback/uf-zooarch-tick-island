@@ -1,0 +1,41 @@
+Report for Institution Code UF-Archaeology, Resource tick_island_zooarchaeological_data
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 305
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 3
+	Date: 2018-03-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:80eaf2ed-c5ec-4c36-a9b7-a0b7023a8edf" ; Times: 1
+	Query: "tick island environmental archaeology" ; Times: 2
+	Query: "alligator snapping turtle" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1284 download events in this period)
+Total number of records downloaded: 104
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia institutioncode:UF" ; Times: 1
+	Query: "class:Mammalia Didelphis marsupialis" ; Times: 1
+
+
+End of report.
