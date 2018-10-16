@@ -1,0 +1,60 @@
+Report for Institution Code UF-Archaeology, Resource tick_island_zooarchaeological_data
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 1354
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Argentina ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-07 ; Times: 7
+	Date: 2018-04-06 ; Times: 3
+	Date: 2018-04-29 ; Times: 3
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-26 ; Times: 3
+	Date: 2018-04-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:80eaf2ed-c5ec-4c36-a9b7-a0b7023a8edf" ; Times: 10
+	Query: "gbifdatasetid:80eaf2ed-c5ec-4c36-a9b7-a0b7023a8edf isarch:1" ; Times: 2
+	Query: "axis axis cervidae" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "e390cf5d-39a2-4781-b392-8fe4a2cc674a" ; Times: 1
+	Query: "oppossum" ; Times: 2
+	Query: "gbifdatasetid:80eaf2ed-c5ec-4c36-a9b7-a0b7023a8edf locality id" ; Times: 1
+	Query: "genus:Didelphis specificepithet:marsupialis mappable:1" ; Times: 1
+	Query: "&#34;alligator snapping turtle&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1359 download events in this period)
+Total number of records downloaded: 27
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "raccoon" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "procyon lotor" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+
+
+End of report.
