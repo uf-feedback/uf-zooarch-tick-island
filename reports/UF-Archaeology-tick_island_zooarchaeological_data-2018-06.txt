@@ -1,0 +1,47 @@
+Report for Institution Code UF-Archaeology, Resource tick_island_zooarchaeological_data
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 95
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-03 ; Times: 4
+	Date: 2018-06-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Box turtle" ; Times: 1
+	Query: "Alligator snapping turtle" ; Times: 3
+	Query: "alligator snapping turtle" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "Alligator snapping" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1169 download events in this period)
+Total number of records downloaded: 51
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-05 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ursus americanus" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "black bear" ; Times: 4
+
+
+End of report.
