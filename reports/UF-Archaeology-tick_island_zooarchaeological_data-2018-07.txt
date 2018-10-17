@@ -1,0 +1,45 @@
+Report for Institution Code UF-Archaeology, Resource tick_island_zooarchaeological_data
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 106
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:80eaf2ed-c5ec-4c36-a9b7-a0b7023a8edf" ; Times: 1
+	Query: "Lutra canadensis" ; Times: 1
+	Query: "lutra canadensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 977 download events in this period)
+Total number of records downloaded: 306
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:80eaf2ed-c5ec-4c36-a9b7-a0b7023a8edf" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+
+
+End of report.
