@@ -1,0 +1,74 @@
+Report for Institution Code UF-Archaeology, Resource tick_island_zooarchaeological_data
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 365
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-19 ; Times: 2
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:80eaf2ed-c5ec-4c36-a9b7-a0b7023a8edf" ; Times: 1
+	Query: "turtle isarch:1 isfossil:1" ; Times: 1
+	Query: "Didelphis marsupialis mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:Ursus institutioncode:UF" ; Times: 1
+	Query: "specificepithet:parallelus genus:centropomus mappable:1" ; Times: 1
+	Query: "0130e994-472c-4c19-b5f1-4e15148ec7e6" ; Times: 1
+	Query: "tick island" ; Times: 1
+	Query: "tick island florida" ; Times: 1
+	Query: "e390cf5d-39a2-4781-b392-8fe4a2cc674a" ; Times: 1
+	Query: "alligator snapping turtle" ; Times: 1
+	Query: "80eaf2ed-c5ec-4c36-a9b7-a0b7023a8edf" ; Times: 1
+	Query: "Pogonias cromis mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 809 download events in this period)
+Total number of records downloaded: 348
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-09 ; Times: 3
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:Ursus institutioncode:UF" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "order:Testudines institutioncode:UF" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+
+
+End of report.
