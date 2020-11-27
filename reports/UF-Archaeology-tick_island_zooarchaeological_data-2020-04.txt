@@ -1,0 +1,65 @@
+Report for Institution Code UF-Archaeology, Resource tick_island_zooarchaeological_data
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 87
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 16
+	Country: United States ; Times: 4
+	Country: India ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 9
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-30 ; Times: 5
+	Date: 2020-04-21 ; Times: 4
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lutra lutra" ; Times: 9
+	Query: "Tick Island" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "Alligator snapping turtle" ; Times: 2
+	Query: "Pogonias cromis" ; Times: 5
+	Query: "lutra lutra" ; Times: 5
+	Query: "vntype:specimen specificepithet:lotor genus:procyon institutioncode:UF" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1171 download events in this period)
+Total number of records downloaded: 498
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-21 ; Times: 2
+	Date: 2020-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Bivalvia basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "snapping turtle" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "class:Gastropoda" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "Ursus americanus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+
+
+End of report.
