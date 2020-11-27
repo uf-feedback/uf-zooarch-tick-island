@@ -1,0 +1,44 @@
+Report for Institution Code UF-Archaeology, Resource tick_island_zooarchaeological_data
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 2
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "uf 7371" ; Times: 1
+	Query: "Centropomus parallelus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 853 download events in this period)
+Total number of records downloaded: 49
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "genus:Alligator country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:ursus" ; Times: 1
+	Query: "genus:Gopherus" ; Times: 1
+
+
+End of report.
