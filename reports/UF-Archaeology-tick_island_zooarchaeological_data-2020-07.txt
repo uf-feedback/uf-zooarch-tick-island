@@ -1,0 +1,51 @@
+Report for Institution Code UF-Archaeology, Resource tick_island_zooarchaeological_data
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 16
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Peru ; Times: 5
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-12 ; Times: 5
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "lutra lutra" ; Times: 5
+	Query: "Centropomus parallelus mappable:1" ; Times: 3
+	Query: "vntype:specimen hastissue:1 isarch:1 isfossil:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 940 download events in this period)
+Total number of records downloaded: 46
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Viperidae" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+
+
+End of report.
