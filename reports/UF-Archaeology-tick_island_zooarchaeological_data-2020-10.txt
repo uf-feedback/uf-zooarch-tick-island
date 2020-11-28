@@ -1,0 +1,65 @@
+Report for Institution Code UF-Archaeology, Resource tick_island_zooarchaeological_data
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 43
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 2
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 3
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Didelphis marsupialis" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 1
+	Query: "mappable:1 scientificname:Centropomus parallelus" ; Times: 5
+	Query: "Centropomus parallelus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Gopherus polyphemus" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1521 download events in this period)
+Total number of records downloaded: 174
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "class:reptilia institutioncode:UF" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+
+
+End of report.
