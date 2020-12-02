@@ -1,0 +1,52 @@
+Report for Institution Code UF-Archaeology, Resource tick_island_zooarchaeological_data
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 235
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-10 ; Times: 15
+	Date: 2020-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Ursus americanus" ; Times: 1
+	Query: "scientificname:Didelphis virginiana" ; Times: 2
+	Query: "scientificname:Procyon lotor" ; Times: 2
+	Query: "box turtle" ; Times: 1
+	Query: "Chelydra serpentina hastissue:1" ; Times: 1
+	Query: "scientificname:Odocoileus virginianus" ; Times: 6
+	Query: "scientificname:Castor Canadensis" ; Times: 2
+	Query: "scientificname:Lynx rufus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 842 download events in this period)
+Total number of records downloaded: 90
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-12 ; Times: 1
+	Date: 2020-11-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "UF canis" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "black bear" ; Times: 1
+
+
+End of report.
